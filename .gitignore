@@ -1,0 +1,15 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# JSON temporales
+*.json
+
+# Entornos virtuales
+venv/
+env/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
